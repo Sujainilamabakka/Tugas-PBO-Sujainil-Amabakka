@@ -1,10 +1,13 @@
 #Greenfoot project file
-editor.fx.0.height=739
-editor.fx.0.width=816
-editor.fx.0.x=275
-editor.fx.0.y=-4
+dependency1.from=Stage
+dependency1.to=player
+dependency1.type=UsesDependency
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 height=744
-package.numDependencies=0
+package.numDependencies=1
 package.numTargets=2
 project.charset=UTF-8
 publish.hasSource=false
@@ -19,7 +22,7 @@ readme.name=@README
 readme.width=49
 readme.x=10
 readme.y=10
-simulation.speed=50
+simulation.speed=47
 target1.height=70
 target1.name=Stage
 target1.showInterface=false
